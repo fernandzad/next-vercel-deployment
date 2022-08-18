@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-html-link-for-pages */
 
-import Link from 'next/Link';
+import Link from 'next/link';
 import DarkLayout from '../components/layouts/DarkLayout';
 import MainLayout from '../components/layouts/MainLayout';
 
